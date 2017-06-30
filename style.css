@@ -34,3 +34,7 @@ h2 {
   color: #FFF;
   font-size: 25px;
 }
+
+.price-box .header.header-green {
+  background-color: #4CAF50;
+}
