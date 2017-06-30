@@ -7,3 +7,10 @@ body {
 h2 {
   text-align: center;
 }
+
+.col {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  box-sizing: border-box;
+}
