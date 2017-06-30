@@ -38,3 +38,9 @@ h2 {
 .price-box .header.header-green {
   background-color: #4CAF50;
 }
+
+.price-box li {
+  padding: 20px;
+  border-bottom: 1px solid #EEE;
+  text-align: center;
+}
