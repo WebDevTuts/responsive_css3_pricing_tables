@@ -24,3 +24,7 @@ h2 {
   padding: 0;
   transition: .3s;
 }
+
+.price-box:hover, .price-box.best {
+  box-shadow: 0 10px 15px 0 #000;
+}
