@@ -28,3 +28,9 @@ h2 {
 .price-box:hover, .price-box.best {
   box-shadow: 0 10px 15px 0 #000;
 }
+
+.price-box .header {
+  background-color: #111;
+  color: #FFF;
+  font-size: 25px;
+}
